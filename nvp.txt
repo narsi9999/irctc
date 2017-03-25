@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccccccccccc
-=======
-this is m first line
-tis is my second line
-this is my third line
-this is my fourth line
->>>>>>> 0bd156d00dc1513287407aa63f2c1aebcf75463c
+aajjajjaja
